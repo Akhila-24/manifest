@@ -2,6 +2,6 @@
 <manifest>
     <remote fetch="https://github.com/Akhila-24/" name="origin"/>
         <default remote="origin" sync-j="4" revision="main"/>
-        <project name="linux_app" path="app"/>
-        <project name="linux_driver" path="driver"/>
+        <project name="linux_app" path="app" revison="main"/>
+        <project name="linux_driver" path="driver" revision="main"/>
 </manifest>
