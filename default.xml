@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<manifest?>
+<manifest>
     <remote fetch="https://github.com/Akhila-24/" name="origin"/>
         <default remote="origin" sync-j="4" revision="master"/>
         <project name="linux_app" path="app"/>
